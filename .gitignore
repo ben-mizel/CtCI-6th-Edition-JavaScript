@@ -6,3 +6,6 @@ logs
 
 # Mac specific
 DS_Store
+
+.DS_Store
+chapter01/.DS_Store
